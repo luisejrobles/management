@@ -1,6 +1,6 @@
 # DOCUMENTATION
 
-Template used documentation needs to be added to a process, code or anything related.
+Template used when documentation needs to be added to a process, code, file, folder or anything related.
 Be sure you add **Documentation** label.
 
 ## What needs to be documented
