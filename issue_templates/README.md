@@ -8,3 +8,5 @@ Templates described below are being used to ease the process of identifying and 
 - [Bug](./bug.md)
 - [Improvement](./improvement.md)
 - [Feature](./feature.md)
+
+> This document is created under the [Creative Commons license](../LICENSE)
