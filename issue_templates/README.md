@@ -1,8 +1,8 @@
-# Template issues
+# Issue templates
 
-Templates described below are being used to ease the process of identifying and fill out every detail of any type of issue.
+Templates described below are being used to ease the process of identifying and filling details about their respective type of issue.
 
-## Table of templates
+## Table of content
 
 - [Documentation](./documentation.md)
 - [Bug](./bug.md)
