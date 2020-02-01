@@ -6,4 +6,4 @@ Conglomerate of docs used to manage distributed teams and projects.
 
 ## Table of contents
 
-- Issue templates
+- [Issue templates](./issue_templates/README.md)
