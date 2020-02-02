@@ -2,7 +2,7 @@
 
 Template used when a bug is discovered. Be sure you add **Bug** label.
 
-## Description of bug
+## Description
 
 _Insert description here_
 
@@ -40,4 +40,4 @@ _Insert time dd:hh:mm_
 
 #### src/app/folder/file.ts
 
-_Description of documentation added at file_
+_Description of changes in file_

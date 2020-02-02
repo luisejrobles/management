@@ -36,4 +36,4 @@ _Insert time dd:hh:mm_
 
 #### src/app/folder/file.ts
 
-_Description of documentation added at file_
+_Description of documentation added in file_
