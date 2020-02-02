@@ -12,6 +12,8 @@ _Insert description here_
 _Insert time dd:hh:mm_
 
 > example: 1d15h20m
+> in case of using Gitlab use **/estimate 1d5h20m**.
+> [see Time tracking for details](https://docs.gitlab.com/ee/user/project/time_tracking.html)
 
 ## Pre requisites
 

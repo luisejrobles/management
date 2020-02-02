@@ -14,7 +14,9 @@ _Steps how can it be replicated (in case its possible)_
 
 _Insert time dd:hh:mm_
 
-> example: 1d15h20m
+> example: 1d15h20m.
+> in case of using Gitlab use **/estimate 1d5h20m**.
+> [see Time tracking for details](https://docs.gitlab.com/ee/user/project/time_tracking.html)
 
 ## Pre requisites
 
