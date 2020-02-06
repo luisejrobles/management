@@ -19,3 +19,6 @@ Here you can find a list of management related tools, ranging from comunication,
 - [Trello](https://trello.com)
 - [Asana](https://asana.com)
 - [Monday](https://monday.com)
+
+> The content here was made to ease the work of being a manager.
+> This repoo is created under the [Creative Commons license](../LICENSE)
